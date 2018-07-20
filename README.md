@@ -6,21 +6,43 @@
 
 ## Table of Contents
 [Database Information](#intro)     
-[Template](#workflow)   
+[Database Creation](#workflow)   
    
 
 ## <a name="intro"></a>Database Information
 
-The following repository contains two gene nucleotide databases that contain mycobacterial species level information. The procedure to generate the bacterial databases is detailed in the  section below. 
+The following repository contains three gene nucleotide databases that contain mycobacterial species level information. The procedure to generate the databases is explained in greater detailed below. The BLAST Databases are found under the Databases folder.
 
 
-## <a name="workflow"></a>Template
+## <a name="workflow"></a>Database Creation
 
-To identify the bacterial taxa in a niche, a region of the 16s ribosomal RNA gene is amplified and sequenced. This repository stores two workflows to analyze the resulting 16s sequences though more information about the workflows and additional techniques can be found:
+### rpoB and HSP65
 
-- [Dada2](http://benjjneb.github.io/dada2/index.html)
+The rpoB and HSP65 databases are taken from sequences from the [NCBI](https://www.ncbi.nlm.nih.gov/nuccore). The size of the gene and the genus name were used to filter the query results. The data was download on May 1st, 2018. Additional filtering steps were performed using jupyter notebook scripts under the scripts directory. 
 
-- [Qiime2](https://docs.qiime2.org)
+#### Overview of Filtering Steps
+
+- Removed sequences that did not align using [Seaview](http://doua.prabi.fr/software/seaview)
+
+- Subsampled 2 sequences by species (if available) with an emphasis on selecting sequences from established cultures. 
+
+- Selected conserved region of gene amongst all subsampled sequences
+
+- Created nucleotide BLAST database
+
+#### Species Information
+
+A phylogenetic tree was created using [PhyML](http://www.atgc-montpellier.fr/phyml/) in the SeaView program with default settings. The resulting trees are located under data/Tree_of_Database_Sequences. The subsampled sequences had to be further refined to only one sample per species to create the tree.
+
+A complete list of the species included in the databases are listed in the Count_of_Species.xlsx excel file. 
+
+### 16S RNA
+
+The small subunit rna 16S gene data for all Mycobacterium was downloaded from [Silva](https://www.arb-silva.de/) on July 18th, 2018. The data was filtered by the species present in the HSP65 and rpoB database. The data was also length filtered to allow for proper alignment. The data was subsampled by species to include one record per species. 
+
+- [NCBI](https://www.ncbi.nlm.nih.gov/nuccore)
+
+- [Silva](https://www.arb-silva.de/)
 
 
 
