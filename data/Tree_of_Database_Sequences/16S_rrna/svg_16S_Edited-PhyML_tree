@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="561px" height="2527px" viewBox="0 0 561 2527"
+xmlns="http://www.w3.org/2000/svg" version="1.1">
+<rect x="0" y="0" width="561" height="2527" fill="none" stroke="rgb(192,192,192)" stroke-width="1"/>
+<text x="177" y="2523" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="97">Nocardia_asteroides</text>
+<text x="26" y="2510" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="105">Mycobacterium_alvei</text>
+<text x="21" y="2496" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="135">Mycobacterium_arceuilense</text>
+<text x="29" y="2483" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="153">Mycobacterium_montmartrense</text>
+<text x="41" y="2469" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="125">Mycobacterium_septicum</text>
+<text x="30" y="2456" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="127">Mycobacterium_lutetiense</text>
+<text x="68" y="2442" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="149">Mycobacterium_mucogenicum</text>
+<text x="58" y="2429" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="134">Mycobacterium_phocaicum</text>
+<text x="71" y="2416" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="137">Mycobacterium_aubagnense</text>
+<text x="82" y="2402" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="133">Mycobacterium_llatzerense</text>
+<text x="111" y="2389" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="154">Mycobacterium_immunogenum</text>
+<text x="128" y="2375" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="134">Mycobacterium_fuerthensis</text>
+<text x="121" y="2362" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="139">Mycobacterium_saopaulense</text>
+<text x="130" y="2348" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="153">Mycobacterium_salmoniphilum</text>
+<text x="124" y="2335" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="126">Mycobacterium_franklinii</text>
+<text x="39" y="2321" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="141">Mycobacterium_houstonense</text>
+<text x="44" y="2308" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="139">Mycobacterium_senegalense</text>
+<text x="45" y="2294" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="143">Mycobacterium_farcinogenes</text>
+<text x="44" y="2281" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="155">Mycobacterium_conceptionense</text>
+<text x="52" y="2267" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="127">Mycobacterium_porcinum</text>
+<text x="49" y="2254" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="157">Mycobacterium_neworleansense</text>
+<text x="50" y="2241" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="128">Mycobacterium_boenickei</text>
+<text x="71" y="2227" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="121">Mycobacterium_obuense</text>
+<text x="64" y="2214" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="124">Mycobacterium_iranicum</text>
+<text x="98" y="2200" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="125">Mycobacterium_poriferae</text>
+<text x="110" y="2187" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="135">Mycobacterium_insubricum</text>
+<text x="88" y="2173" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="169">Mycobacterium_chlorophenolicum</text>
+<text x="94" y="2160" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="111">Mycobacterium_rufum</text>
+<text x="89" y="2146" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="132">Mycobacterium_chubuense</text>
+<text x="72" y="2133" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="119">Mycobacterium_sphagni</text>
+<text x="69" y="2119" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="115">Mycobacterium_pallens</text>
+<text x="122" y="2106" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="131">Mycobacterium_neglectum</text>
+<text x="113" y="2092" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="115">Mycobacterium_hodleri</text>
+<text x="96" y="2079" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="122">Mycobacterium_lacticola</text>
+<text x="101" y="2066" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="129">Mycobacterium_neoaurum</text>
+<text x="96" y="2052" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="149">Mycobacterium_bacteremicum</text>
+<text x="138" y="2039" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="139">Mycobacterium_cosmeticum</text>
+<text x="170" y="2025" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="167">Mycobacterium_frederiksbergense</text>
+<text x="156" y="2012" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="134">Mycobacterium_holsaticum</text>
+<text x="144" y="1998" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="127">Mycobacterium_tokaiense</text>
+<text x="144" y="1985" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="115">Mycobacterium_murale</text>
+<text x="129" y="1971" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="119">Mycobacterium_jacuzzii</text>
+<text x="134" y="1958" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="139">Mycobacterium_mageritense</text>
+<text x="131" y="1944" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="129">Mycobacterium_wolinskyi</text>
+<text x="146" y="1931" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="109">Mycobacterium_fallax</text>
+<text x="147" y="1917" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="155">Mycobacterium_petroleophilum</text>
+<text x="157" y="1904" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="115">Mycobacterium_gilvum</text>
+<text x="164" y="1891" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="157">Mycobacterium_psychrotolerans</text>
+<text x="172" y="1877" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="159">Mycobacterium_aromaticivorans</text>
+<text x="154" y="1864" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="127">Mycobacterium_rhodesiae</text>
+<text x="169" y="1850" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="117">Mycobacterium_rutilum</text>
+<text x="174" y="1837" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="127">Mycobacterium_crocinum</text>
+<text x="158" y="1823" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="126">Mycobacterium_aichiense</text>
+<text x="142" y="1810" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="117">Mycobacterium_helvum</text>
+<text x="143" y="1796" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="116">Mycobacterium_setense</text>
+<text x="143" y="1783" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="147">Mycobacterium_parafortuitum</text>
+<text x="106" y="1769" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="138">Mycobacterium_brisbanense</text>
+<text x="103" y="1756" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="142">Mycobacterium_canariasense</text>
+<text x="104" y="1742" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="135">Mycobacterium_diernhoferi</text>
+<text x="113" y="1729" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="158">Mycobacterium_hackensackense</text>
+<text x="114" y="1716" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="172">Mycobacterium_fluoranthenivorans</text>
+<text x="102" y="1702" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="139">Mycobacterium_komossense</text>
+<text x="111" y="1689" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="135">Mycobacterium_sarraceniae</text>
+<text x="88" y="1675" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="117">Mycobacterium_gadium</text>
+<text x="145" y="1662" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="100">Mycobacterium_agri</text>
+<text x="170" y="1648" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="131">Mycobacterium_flavescens</text>
+<text x="232" y="1635" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="112">Mycobacterium_aurum</text>
+<text x="213" y="1621" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="110">Mycobacterium_chitae</text>
+<text x="175" y="1608" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="162">Mycobacterium_thermoresistibile</text>
+<text x="227" y="1594" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="131">Mycobacterium_hassiacum</text>
+<text x="137" y="1581" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="135">Mycobacterium_confluentis</text>
+<text x="154" y="1567" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="149">Mycobacterium_novocastrense</text>
+<text x="135" y="1554" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="105">Mycobacterium_phlei</text>
+<text x="155" y="1540" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="130">Mycobacterium_elephantis</text>
+<text x="124" y="1527" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="120">Mycobacterium_pulveris</text>
+<text x="158" y="1514" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="117">Mycobacterium_brumae</text>
+<text x="129" y="1500" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="135">Mycobacterium_brasiliensis</text>
+<text x="132" y="1487" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="142">Mycobacterium_celeriflavum</text>
+<text x="111" y="1473" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="129">Mycobacterium_barrassiae</text>
+<text x="132" y="1460" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="163">Mycobacterium_madagascariense</text>
+<text x="145" y="1446" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="142">Mycobacterium_manitobense</text>
+<text x="141" y="1433" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="115">Mycobacterium_duvalii</text>
+<text x="162" y="1419" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="143">Mycobacterium_moriokaense</text>
+<text x="162" y="1406" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="137">Mycobacterium_anyangense</text>
+<text x="152" y="1392" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="115">Mycobacterium_tusciae</text>
+<text x="156" y="1379" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="135">Mycobacterium_monacense</text>
+<text x="171" y="1365" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="121">Mycobacterium_doricum</text>
+<text x="189" y="1352" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="137">Mycobacterium_vanbaalenii</text>
+<text x="189" y="1339" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="114">Mycobacterium_vaccae</text>
+<text x="196" y="1325" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="144">Mycobacterium_pyrenivorans</text>
+<text x="172" y="1312" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="159">Mycobacterium_austroafricanum</text>
+<text x="178" y="1298" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="138">Mycobacterium_hippocampi</text>
+<text x="187" y="1285" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="127">Mycobacterium_sediminis</text>
+<text x="233" y="1271" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="127">Mycobacterium_arabiense</text>
+<text x="123" y="1258" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="112">Mycobacterium_goodii</text>
+<text x="122" y="1244" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="133">Mycobacterium_smegmatis</text>
+<text x="229" y="1231" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="137">Mycobacterium_peregrinum</text>
+<text x="139" y="1217" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="109">Mycobacterium_terrae</text>
+<text x="142" y="1204" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="160">Mycobacterium_kumamotonense</text>
+<text x="147" y="1190" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="125">Mycobacterium_senuense</text>
+<text x="138" y="1177" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="145">Mycobacterium_longobardum</text>
+<text x="148" y="1164" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="135">Mycobacterium_virginiense</text>
+<text x="148" y="1150" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="148">Mycobacterium_heraklionense</text>
+<text x="151" y="1137" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="124">Mycobacterium_arupense</text>
+<text x="158" y="1123" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="177">Mycobacterium_nonchromogenicum</text>
+<text x="166" y="1110" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="128">Mycobacterium_engbaekii</text>
+<text x="165" y="1096" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="126">Mycobacterium_hiberniae</text>
+<text x="186" y="1083" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="145">Mycobacterium_parakoreense</text>
+<text x="202" y="1069" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="115">Mycobacterium_triviale</text>
+<text x="204" y="1056" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="124">Mycobacterium_koreense</text>
+<text x="447" y="1042" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="106">Mycobacterium_lacus</text>
+<text x="180" y="1029" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="127">Mycobacterium_asiaticum</text>
+<text x="203" y="1015" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="126">Mycobacterium_gordonae</text>
+<text x="204" y="1002" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="147">Mycobacterium_paragordonae</text>
+<text x="207" y="989" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="139">Mycobacterium_conspicuum</text>
+<text x="223" y="975" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="133">Mycobacterium_riyadhense</text>
+<text x="233" y="962" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="124">Mycobacterium_simulans</text>
+<text x="215" y="948" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="115">Mycobacterium_szulgai</text>
+<text x="229" y="935" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="124">Mycobacterium_aemonae</text>
+<text x="215" y="921" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="131">Mycobacterium_angelicum</text>
+<text x="229" y="908" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="140">Mycobacterium_nebraskense</text>
+<text x="240" y="894" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="147">Mycobacterium_haemophilum</text>
+<text x="252" y="881" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="171">Mycobacterium_bouchedurhonense</text>
+<text x="261" y="867" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="141">Mycobacterium_marseillense</text>
+<text x="266" y="854" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="139">Mycobacterium_yongonense</text>
+<text x="267" y="840" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="131">Mycobacterium_timonense</text>
+<text x="270" y="827" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="120">Mycobacterium_vulneris</text>
+<text x="271" y="814" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="142">Mycobacterium_colombiense</text>
+<text x="264" y="800" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="126">Mycobacterium_arosiense</text>
+<text x="262" y="787" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="125">Mycobacterium_chimaera</text>
+<text x="261" y="773" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="165">Mycobacterium_paraintracellulare</text>
+<text x="261" y="760" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="145">Mycobacterium_intracellulare</text>
+<text x="234" y="746" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="138">Mycobacterium_bohemicum</text>
+<text x="258" y="733" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="144">Mycobacterium_shinjukuense</text>
+<text x="255" y="719" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="116">Mycobacterium_microti</text>
+<text x="254" y="706" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="130">Mycobacterium_africanum</text>
+<text x="254" y="692" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="107">Mycobacterium_bovis</text>
+<text x="255" y="679" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="130">Mycobacterium_pinnipedii</text>
+<text x="255" y="665" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="139">Mycobacterium_tuberculosis</text>
+<text x="257" y="652" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="116">Mycobacterium_shottsii</text>
+<text x="257" y="638" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="121">Mycobacterium_ulcerans</text>
+<text x="256" y="625" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="125">Mycobacterium_marinum</text>
+<text x="262" y="612" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="150">Mycobacterium_pseudoshottsii</text>
+<text x="258" y="598" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="119">Mycobacterium_liflandii</text>
+<text x="314" y="585" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="120">Mycobacterium_kansasii</text>
+<text x="328" y="571" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="113">Mycobacterium_caprae</text>
+<text x="313" y="558" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="143">Mycobacterium_lepromatosis</text>
+<text x="313" y="544" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="111">Mycobacterium_leprae</text>
+<text x="267" y="531" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="143">Mycobacterium_intermedium</text>
+<text x="234" y="517" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="108">Mycobacterium_gastri</text>
+<text x="230" y="504" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="146">Mycobacterium_scrofulaceum</text>
+<text x="239" y="490" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="123">Mycobacterium_mantenii</text>
+<text x="229" y="477" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="143">Mycobacterium_paraffinicum</text>
+<text x="223" y="463" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="149">Mycobacterium_paraseoulense</text>
+<text x="223" y="450" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="128">Mycobacterium_seoulense</text>
+<text x="194" y="437" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="116">Mycobacterium_alsense</text>
+<text x="230" y="423" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="153">Mycobacterium_heidelbergense</text>
+<text x="241" y="410" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="135">Mycobacterium_europaeum</text>
+<text x="246" y="396" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="167">Mycobacterium_parascrofulaceum</text>
+<text x="246" y="383" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="136">Mycobacterium_malmoense</text>
+<text x="238" y="369" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="119">Mycobacterium_palustre</text>
+<text x="245" y="356" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="119">Mycobacterium_kubicae</text>
+<text x="235" y="342" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="128">Mycobacterium_shigaense</text>
+<text x="231" y="329" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="113">Mycobacterium_simiae</text>
+<text x="239" y="315" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="137">Mycobacterium_lentiflavum</text>
+<text x="243" y="302" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="127">Mycobacterium_parmense</text>
+<text x="232" y="288" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="120">Mycobacterium_sherrisii</text>
+<text x="241" y="275" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="120">Mycobacterium_tilburgii</text>
+<text x="239" y="262" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="138">Mycobacterium_florentinum</text>
+<text x="243" y="248" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="139">Mycobacterium_stomatepiae</text>
+<text x="244" y="235" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="150">Mycobacterium_montefiorense</text>
+<text x="236" y="221" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="113">Mycobacterium_triplex</text>
+<text x="242" y="208" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="131">Mycobacterium_genavense</text>
+<text x="214" y="194" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="136">Mycobacterium_interjectum</text>
+<text x="218" y="181" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="123">Mycobacterium_paraense</text>
+<text x="226" y="167" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="169">Mycobacterium_saskatchewanense</text>
+<text x="192" y="154" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="129">Mycobacterium_shimoidei</text>
+<text x="189" y="140" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="119">Mycobacterium_celatum</text>
+<text x="192" y="127" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="134">Mycobacterium_kyorinense</text>
+<text x="230" y="113" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="121">Mycobacterium_branderi</text>
+<text x="261" y="100" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="111">Mycobacterium_cookii</text>
+<text x="230" y="87" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="111">Mycobacterium_fragae</text>
+<text x="256" y="73" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="151">Mycobacterium_noviomagense</text>
+<text x="277" y="60" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="127">Mycobacterium_botniense</text>
+<text x="280" y="46" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="157">Mycobacterium_heckeshornense</text>
+<text x="318" y="33" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="114">Mycobacterium_xenopi</text>
+<line x1="63" y1="2411" x2="68" y2="2411" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="63" y1="2397" x2="80" y2="2397" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="63" y1="2411" x2="63" y2="2397" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="56" y1="2424" x2="56" y2="2424" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="56" y1="2404" x2="63" y2="2404" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="56" y1="2424" x2="56" y2="2404" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="50" y1="2438" x2="66" y2="2438" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="50" y1="2414" x2="56" y2="2414" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="50" y1="2438" x2="50" y2="2414" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="122" y1="2344" x2="128" y2="2344" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="122" y1="2330" x2="122" y2="2330" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="122" y1="2344" x2="122" y2="2330" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="118" y1="2357" x2="118" y2="2357" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="118" y1="2337" x2="122" y2="2337" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="118" y1="2357" x2="118" y2="2337" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="113" y1="2371" x2="125" y2="2371" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="113" y1="2347" x2="118" y2="2347" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="113" y1="2371" x2="113" y2="2347" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="99" y1="2384" x2="108" y2="2384" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="99" y1="2359" x2="113" y2="2359" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="99" y1="2384" x2="99" y2="2359" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="47" y1="2426" x2="50" y2="2426" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="47" y1="2371" x2="99" y2="2371" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="47" y1="2426" x2="47" y2="2371" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="42" y1="2290" x2="43" y2="2290" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="42" y1="2276" x2="42" y2="2276" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="42" y1="2290" x2="42" y2="2276" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="42" y1="2303" x2="42" y2="2303" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="42" y1="2283" x2="42" y2="2283" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="42" y1="2303" x2="42" y2="2283" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="47" y1="2249" x2="47" y2="2249" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="47" y1="2236" x2="48" y2="2236" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="47" y1="2249" x2="47" y2="2236" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="45" y1="2263" x2="50" y2="2263" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="45" y1="2243" x2="47" y2="2243" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="45" y1="2263" x2="45" y2="2243" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="41" y1="2293" x2="42" y2="2293" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="41" y1="2253" x2="45" y2="2253" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="41" y1="2293" x2="41" y2="2253" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="87" y1="2155" x2="91" y2="2155" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="87" y1="2142" x2="87" y2="2142" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="87" y1="2155" x2="87" y2="2142" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="83" y1="2169" x2="86" y2="2169" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="83" y1="2148" x2="87" y2="2148" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="83" y1="2169" x2="83" y2="2148" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="74" y1="2182" x2="107" y2="2182" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="74" y1="2158" x2="83" y2="2158" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="74" y1="2182" x2="74" y2="2158" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="70" y1="2195" x2="96" y2="2195" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="70" y1="2170" x2="74" y2="2170" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="70" y1="2195" x2="70" y2="2170" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="61" y1="2209" x2="61" y2="2209" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="61" y1="2183" x2="70" y2="2183" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="61" y1="2209" x2="61" y2="2183" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="54" y1="2222" x2="69" y2="2222" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="54" y1="2196" x2="61" y2="2196" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="54" y1="2222" x2="54" y2="2196" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="54" y1="2128" x2="69" y2="2128" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="54" y1="2115" x2="66" y2="2115" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="54" y1="2128" x2="54" y2="2115" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="105" y1="2101" x2="120" y2="2101" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="105" y1="2088" x2="111" y2="2088" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="105" y1="2101" x2="105" y2="2088" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="92" y1="2061" x2="98" y2="2061" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="92" y1="2047" x2="94" y2="2047" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="92" y1="2061" x2="92" y2="2047" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="91" y1="2074" x2="94" y2="2074" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="91" y1="2054" x2="92" y2="2054" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="91" y1="2074" x2="91" y2="2054" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="114" y1="2034" x2="135" y2="2034" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="114" y1="2020" x2="167" y2="2020" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="114" y1="2034" x2="114" y2="2020" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="142" y1="1994" x2="142" y2="1994" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="142" y1="1980" x2="142" y2="1980" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="142" y1="1994" x2="142" y2="1980" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="132" y1="2007" x2="153" y2="2007" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="132" y1="1987" x2="142" y2="1987" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="132" y1="2007" x2="132" y2="1987" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="127" y1="1953" x2="131" y2="1953" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="127" y1="1940" x2="128" y2="1940" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="127" y1="1953" x2="127" y2="1940" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="124" y1="1967" x2="127" y2="1967" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="124" y1="1946" x2="127" y2="1946" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="124" y1="1967" x2="124" y2="1946" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="147" y1="1899" x2="154" y2="1899" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="147" y1="1886" x2="162" y2="1886" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="147" y1="1899" x2="147" y2="1886" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="142" y1="1913" x2="145" y2="1913" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="142" y1="1893" x2="147" y2="1893" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="142" y1="1913" x2="142" y2="1893" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="158" y1="1845" x2="166" y2="1845" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="158" y1="1832" x2="172" y2="1832" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="158" y1="1845" x2="158" y2="1832" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="151" y1="1859" x2="151" y2="1859" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="151" y1="1839" x2="158" y2="1839" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="151" y1="1859" x2="151" y2="1839" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="149" y1="1872" x2="170" y2="1872" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="149" y1="1849" x2="151" y2="1849" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="149" y1="1872" x2="149" y2="1849" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="140" y1="1819" x2="156" y2="1819" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="140" y1="1805" x2="140" y2="1805" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="140" y1="1819" x2="140" y2="1805" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="135" y1="1861" x2="149" y2="1861" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="135" y1="1812" x2="140" y2="1812" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="135" y1="1861" x2="135" y2="1812" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="132" y1="1903" x2="142" y2="1903" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="132" y1="1836" x2="135" y2="1836" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="132" y1="1903" x2="132" y2="1836" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="133" y1="1792" x2="141" y2="1792" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="133" y1="1778" x2="140" y2="1778" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="133" y1="1792" x2="133" y2="1778" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="131" y1="1869" x2="132" y2="1869" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="131" y1="1785" x2="133" y2="1785" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="131" y1="1869" x2="131" y2="1785" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="126" y1="1926" x2="144" y2="1926" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="126" y1="1827" x2="131" y2="1827" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="126" y1="1926" x2="126" y2="1827" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="119" y1="1957" x2="124" y2="1957" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="119" y1="1877" x2="126" y2="1877" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="119" y1="1957" x2="119" y2="1877" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="116" y1="1997" x2="132" y2="1997" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="116" y1="1917" x2="119" y2="1917" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="116" y1="1997" x2="116" y2="1917" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="110" y1="2027" x2="114" y2="2027" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="110" y1="1957" x2="116" y2="1957" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="110" y1="2027" x2="110" y2="1957" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="105" y1="1724" x2="110" y2="1724" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="105" y1="1711" x2="112" y2="1711" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="105" y1="1724" x2="105" y2="1711" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="97" y1="1738" x2="102" y2="1738" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="97" y1="1718" x2="105" y2="1718" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="97" y1="1738" x2="97" y2="1718" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="95" y1="1751" x2="100" y2="1751" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="95" y1="1728" x2="97" y2="1728" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="95" y1="1751" x2="95" y2="1728" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="88" y1="1765" x2="103" y2="1765" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="88" y1="1739" x2="95" y2="1739" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="88" y1="1765" x2="88" y2="1739" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="86" y1="1992" x2="110" y2="1992" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="86" y1="1752" x2="88" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="86" y1="1992" x2="86" y2="1752" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="86" y1="2064" x2="91" y2="2064" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="86" y1="1872" x2="86" y2="1872" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="86" y1="2064" x2="86" y2="1872" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="78" y1="2095" x2="105" y2="2095" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="78" y1="1968" x2="86" y2="1968" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="78" y1="2095" x2="78" y2="1968" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="80" y1="1697" x2="100" y2="1697" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="80" y1="1684" x2="109" y2="1684" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="80" y1="1697" x2="80" y2="1684" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="68" y1="2031" x2="78" y2="2031" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="68" y1="1691" x2="80" y2="1691" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="68" y1="2031" x2="68" y2="1691" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="178" y1="1630" x2="230" y2="1630" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="178" y1="1617" x2="210" y2="1617" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="178" y1="1630" x2="178" y2="1617" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="159" y1="1644" x2="167" y2="1644" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="159" y1="1623" x2="178" y2="1623" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="159" y1="1644" x2="159" y2="1623" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="157" y1="1603" x2="173" y2="1603" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="157" y1="1590" x2="225" y2="1590" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="157" y1="1603" x2="157" y2="1590" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="136" y1="1633" x2="159" y2="1633" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="136" y1="1596" x2="157" y2="1596" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="136" y1="1633" x2="136" y2="1596" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="108" y1="1657" x2="143" y2="1657" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="108" y1="1615" x2="136" y2="1615" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="108" y1="1657" x2="108" y2="1615" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="124" y1="1563" x2="152" y2="1563" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="124" y1="1549" x2="132" y2="1549" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="124" y1="1563" x2="124" y2="1549" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="114" y1="1576" x2="134" y2="1576" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="114" y1="1556" x2="124" y2="1556" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="114" y1="1576" x2="114" y2="1556" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="119" y1="1536" x2="153" y2="1536" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="119" y1="1522" x2="122" y2="1522" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="119" y1="1536" x2="119" y2="1522" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="126" y1="1495" x2="126" y2="1495" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="126" y1="1482" x2="130" y2="1482" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="126" y1="1495" x2="126" y2="1482" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="119" y1="1509" x2="156" y2="1509" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="119" y1="1489" x2="126" y2="1489" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="119" y1="1509" x2="119" y2="1489" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="111" y1="1529" x2="119" y2="1529" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="111" y1="1499" x2="119" y2="1499" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="111" y1="1529" x2="111" y2="1499" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="109" y1="1566" x2="114" y2="1566" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="109" y1="1514" x2="111" y2="1514" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="109" y1="1566" x2="109" y2="1514" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="160" y1="1415" x2="160" y2="1415" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="160" y1="1401" x2="160" y2="1401" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="160" y1="1415" x2="160" y2="1401" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="128" y1="1428" x2="139" y2="1428" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="128" y1="1408" x2="160" y2="1408" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="128" y1="1428" x2="128" y2="1408" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="154" y1="1374" x2="154" y2="1374" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="154" y1="1361" x2="169" y2="1361" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="154" y1="1374" x2="154" y2="1361" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="187" y1="1347" x2="187" y2="1347" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="187" y1="1334" x2="187" y2="1334" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="187" y1="1347" x2="187" y2="1334" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="168" y1="1320" x2="193" y2="1320" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="168" y1="1307" x2="169" y2="1307" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="168" y1="1320" x2="168" y2="1307" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="162" y1="1341" x2="187" y2="1341" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="162" y1="1314" x2="168" y2="1314" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="162" y1="1341" x2="162" y2="1314" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="174" y1="1280" x2="184" y2="1280" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="174" y1="1267" x2="231" y2="1267" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="174" y1="1280" x2="174" y2="1267" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="159" y1="1293" x2="175" y2="1293" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="159" y1="1273" x2="174" y2="1273" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="159" y1="1293" x2="159" y2="1273" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="151" y1="1327" x2="162" y2="1327" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="151" y1="1283" x2="159" y2="1283" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="151" y1="1327" x2="151" y2="1283" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="138" y1="1368" x2="154" y2="1368" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="138" y1="1305" x2="151" y2="1305" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="138" y1="1368" x2="138" y2="1305" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="130" y1="1388" x2="149" y2="1388" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="130" y1="1336" x2="138" y2="1336" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="130" y1="1388" x2="130" y2="1336" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="121" y1="1418" x2="128" y2="1418" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="121" y1="1362" x2="130" y2="1362" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="121" y1="1418" x2="121" y2="1362" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="118" y1="1253" x2="120" y2="1253" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="118" y1="1240" x2="119" y2="1240" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="118" y1="1253" x2="118" y2="1240" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="116" y1="1390" x2="121" y2="1390" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="116" y1="1246" x2="118" y2="1246" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="116" y1="1390" x2="116" y2="1246" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="113" y1="1442" x2="143" y2="1442" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="113" y1="1318" x2="116" y2="1318" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="113" y1="1442" x2="113" y2="1318" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="113" y1="1455" x2="130" y2="1455" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="113" y1="1380" x2="113" y2="1380" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="113" y1="1455" x2="113" y2="1380" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="107" y1="1469" x2="108" y2="1469" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="107" y1="1417" x2="113" y2="1417" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="107" y1="1469" x2="107" y2="1417" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="107" y1="1540" x2="109" y2="1540" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="107" y1="1443" x2="107" y2="1443" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="107" y1="1540" x2="107" y2="1443" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="103" y1="1636" x2="108" y2="1636" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="103" y1="1492" x2="107" y2="1492" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="103" y1="1636" x2="103" y2="1492" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="131" y1="1199" x2="139" y2="1199" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="131" y1="1186" x2="145" y2="1186" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="131" y1="1199" x2="131" y2="1186" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="127" y1="1213" x2="137" y2="1213" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="127" y1="1193" x2="131" y2="1193" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="127" y1="1213" x2="127" y2="1193" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="145" y1="1159" x2="145" y2="1159" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="145" y1="1145" x2="145" y2="1145" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="145" y1="1159" x2="145" y2="1145" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="161" y1="1105" x2="164" y2="1105" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="161" y1="1092" x2="162" y2="1092" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="161" y1="1105" x2="161" y2="1092" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="152" y1="1118" x2="155" y2="1118" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="152" y1="1098" x2="161" y2="1098" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="152" y1="1118" x2="152" y2="1098" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="148" y1="1132" x2="148" y2="1132" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="148" y1="1108" x2="152" y2="1108" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="148" y1="1132" x2="148" y2="1108" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="144" y1="1152" x2="145" y2="1152" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="144" y1="1120" x2="148" y2="1120" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="144" y1="1152" x2="144" y2="1120" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="128" y1="1172" x2="136" y2="1172" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="128" y1="1136" x2="144" y2="1136" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="128" y1="1172" x2="128" y2="1136" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="123" y1="1203" x2="127" y2="1203" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="123" y1="1154" x2="128" y2="1154" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="123" y1="1203" x2="123" y2="1154" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="200" y1="1065" x2="200" y2="1065" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="200" y1="1051" x2="202" y2="1051" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="200" y1="1065" x2="200" y2="1051" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="179" y1="1078" x2="184" y2="1078" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="179" y1="1058" x2="200" y2="1058" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="179" y1="1078" x2="179" y2="1058" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="178" y1="1038" x2="445" y2="1038" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="178" y1="1024" x2="178" y2="1024" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="178" y1="1038" x2="178" y2="1024" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="200" y1="1011" x2="200" y2="1011" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="200" y1="997" x2="202" y2="997" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="200" y1="1011" x2="200" y2="997" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="218" y1="970" x2="221" y2="970" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="218" y1="957" x2="231" y2="957" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="218" y1="970" x2="218" y2="957" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="213" y1="930" x2="226" y2="930" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="213" y1="917" x2="213" y2="917" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="213" y1="930" x2="213" y2="917" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="213" y1="943" x2="213" y2="943" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="213" y1="923" x2="213" y2="923" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="213" y1="943" x2="213" y2="923" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="213" y1="964" x2="218" y2="964" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="213" y1="933" x2="213" y2="933" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="213" y1="964" x2="213" y2="933" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="266" y1="822" x2="268" y2="822" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="266" y1="809" x2="268" y2="809" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="266" y1="822" x2="266" y2="809" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="263" y1="836" x2="264" y2="836" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="263" y1="816" x2="266" y2="816" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="263" y1="836" x2="263" y2="816" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="261" y1="849" x2="264" y2="849" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="261" y1="826" x2="263" y2="826" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="261" y1="849" x2="261" y2="826" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="259" y1="863" x2="259" y2="863" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="259" y1="837" x2="261" y2="837" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="259" y1="863" x2="259" y2="837" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="258" y1="768" x2="258" y2="768" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="258" y1="755" x2="258" y2="755" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="258" y1="768" x2="258" y2="755" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="258" y1="782" x2="259" y2="782" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="258" y1="762" x2="258" y2="762" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="258" y1="782" x2="258" y2="762" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="257" y1="795" x2="262" y2="795" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="257" y1="772" x2="258" y2="772" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="257" y1="795" x2="257" y2="772" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="257" y1="850" x2="259" y2="850" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="257" y1="784" x2="257" y2="784" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="257" y1="850" x2="257" y2="784" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="247" y1="876" x2="250" y2="876" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="247" y1="817" x2="257" y2="817" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="247" y1="876" x2="247" y2="817" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="234" y1="890" x2="238" y2="890" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="234" y1="846" x2="247" y2="846" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="234" y1="890" x2="234" y2="846" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="228" y1="868" x2="234" y2="868" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="228" y1="742" x2="232" y2="742" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="228" y1="868" x2="228" y2="742" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="251" y1="674" x2="252" y2="674" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="251" y1="661" x2="252" y2="661" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="251" y1="674" x2="251" y2="661" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="251" y1="688" x2="251" y2="688" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="251" y1="667" x2="251" y2="667" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="251" y1="688" x2="251" y2="667" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="251" y1="701" x2="251" y2="701" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="251" y1="678" x2="251" y2="678" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="251" y1="701" x2="251" y2="678" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="251" y1="715" x2="252" y2="715" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="251" y1="689" x2="251" y2="689" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="251" y1="715" x2="251" y2="689" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="254" y1="607" x2="260" y2="607" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="254" y1="593" x2="256" y2="593" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="254" y1="607" x2="254" y2="593" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="253" y1="620" x2="253" y2="620" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="253" y1="600" x2="254" y2="600" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="253" y1="620" x2="253" y2="600" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="253" y1="634" x2="254" y2="634" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="253" y1="610" x2="253" y2="610" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="253" y1="634" x2="253" y2="610" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="252" y1="647" x2="255" y2="647" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="252" y1="622" x2="253" y2="622" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="252" y1="647" x2="252" y2="622" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="247" y1="702" x2="251" y2="702" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="247" y1="635" x2="252" y2="635" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="247" y1="702" x2="247" y2="635" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="298" y1="553" x2="311" y2="553" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="298" y1="540" x2="310" y2="540" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="298" y1="553" x2="298" y2="540" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="281" y1="567" x2="326" y2="567" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="281" y1="546" x2="298" y2="546" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="281" y1="567" x2="281" y2="546" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="273" y1="580" x2="311" y2="580" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="273" y1="556" x2="281" y2="556" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="273" y1="580" x2="273" y2="556" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="246" y1="668" x2="247" y2="668" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="246" y1="568" x2="273" y2="568" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="246" y1="668" x2="246" y2="568" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="236" y1="728" x2="256" y2="728" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="236" y1="618" x2="246" y2="618" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="236" y1="728" x2="236" y2="618" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="226" y1="805" x2="228" y2="805" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="226" y1="673" x2="236" y2="673" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="226" y1="805" x2="226" y2="673" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="230" y1="526" x2="265" y2="526" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="230" y1="513" x2="232" y2="513" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="230" y1="526" x2="230" y2="513" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="223" y1="739" x2="226" y2="739" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="223" y1="519" x2="230" y2="519" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="223" y1="739" x2="223" y2="519" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="223" y1="903" x2="227" y2="903" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="223" y1="629" x2="223" y2="629" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="223" y1="903" x2="223" y2="629" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="227" y1="486" x2="236" y2="486" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="227" y1="472" x2="227" y2="472" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="227" y1="486" x2="227" y2="472" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="226" y1="499" x2="228" y2="499" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="226" y1="479" x2="227" y2="479" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="226" y1="499" x2="226" y2="479" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="221" y1="459" x2="221" y2="459" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="221" y1="445" x2="221" y2="445" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="221" y1="459" x2="221" y2="445" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="217" y1="489" x2="226" y2="489" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="217" y1="452" x2="221" y2="452" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="217" y1="489" x2="217" y2="452" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="216" y1="766" x2="223" y2="766" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="216" y1="471" x2="217" y2="471" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="216" y1="766" x2="216" y2="471" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="207" y1="949" x2="213" y2="949" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="207" y1="618" x2="216" y2="618" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="207" y1="949" x2="207" y2="618" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="196" y1="984" x2="205" y2="984" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="196" y1="783" x2="207" y2="783" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="196" y1="984" x2="196" y2="783" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="243" y1="391" x2="243" y2="391" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="243" y1="378" x2="243" y2="378" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="243" y1="391" x2="243" y2="378" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="238" y1="405" x2="239" y2="405" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="238" y1="385" x2="243" y2="385" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="238" y1="405" x2="238" y2="385" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="234" y1="365" x2="236" y2="365" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="234" y1="351" x2="243" y2="351" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="234" y1="365" x2="234" y2="351" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="233" y1="395" x2="238" y2="395" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="233" y1="358" x2="234" y2="358" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="233" y1="395" x2="233" y2="358" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="231" y1="311" x2="236" y2="311" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="231" y1="297" x2="241" y2="297" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="231" y1="311" x2="231" y2="297" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="228" y1="324" x2="228" y2="324" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="228" y1="304" x2="231" y2="304" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="228" y1="324" x2="228" y2="304" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="228" y1="338" x2="233" y2="338" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="228" y1="314" x2="228" y2="314" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="228" y1="338" x2="228" y2="314" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="227" y1="284" x2="229" y2="284" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="227" y1="270" x2="239" y2="270" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="227" y1="284" x2="227" y2="270" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="236" y1="257" x2="236" y2="257" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="236" y1="243" x2="241" y2="243" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="236" y1="257" x2="236" y2="243" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="233" y1="216" x2="234" y2="216" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="233" y1="203" x2="240" y2="203" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="233" y1="216" x2="233" y2="203" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="233" y1="230" x2="242" y2="230" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="233" y1="210" x2="233" y2="210" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="233" y1="230" x2="233" y2="210" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="231" y1="250" x2="236" y2="250" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="231" y1="220" x2="233" y2="220" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="231" y1="250" x2="231" y2="220" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="227" y1="277" x2="227" y2="277" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="227" y1="235" x2="231" y2="235" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="227" y1="277" x2="227" y2="235" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="226" y1="326" x2="228" y2="326" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="226" y1="256" x2="227" y2="256" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="226" y1="326" x2="226" y2="256" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="222" y1="376" x2="233" y2="376" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="222" y1="291" x2="226" y2="291" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="222" y1="376" x2="222" y2="291" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="221" y1="418" x2="228" y2="418" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="221" y1="334" x2="222" y2="334" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="221" y1="418" x2="221" y2="334" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="212" y1="176" x2="215" y2="176" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="212" y1="163" x2="223" y2="163" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="212" y1="176" x2="212" y2="163" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="211" y1="190" x2="212" y2="190" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="211" y1="169" x2="212" y2="169" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="211" y1="190" x2="211" y2="169" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="211" y1="376" x2="221" y2="376" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="211" y1="179" x2="211" y2="179" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="211" y1="376" x2="211" y2="179" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="190" y1="432" x2="192" y2="432" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="190" y1="278" x2="211" y2="278" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="190" y1="432" x2="190" y2="278" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="190" y1="884" x2="196" y2="884" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="190" y1="355" x2="190" y2="355" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="190" y1="884" x2="190" y2="355" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="181" y1="1004" x2="200" y2="1004" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="181" y1="619" x2="190" y2="619" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="181" y1="1004" x2="181" y2="619" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="178" y1="1031" x2="178" y2="1031" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="178" y1="812" x2="181" y2="812" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="178" y1="1031" x2="178" y2="812" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="185" y1="122" x2="189" y2="122" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="185" y1="109" x2="228" y2="109" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="185" y1="122" x2="185" y2="109" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="176" y1="136" x2="187" y2="136" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="176" y1="116" x2="185" y2="116" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="176" y1="136" x2="176" y2="116" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="259" y1="41" x2="278" y2="41" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="259" y1="28" x2="315" y2="28" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="259" y1="41" x2="259" y2="28" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="253" y1="55" x2="275" y2="55" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="253" y1="35" x2="259" y2="35" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="253" y1="55" x2="253" y2="35" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="237" y1="68" x2="253" y2="68" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="237" y1="45" x2="253" y2="45" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="237" y1="68" x2="237" y2="45" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="202" y1="82" x2="227" y2="82" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="202" y1="57" x2="237" y2="57" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="202" y1="82" x2="202" y2="57" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="193" y1="95" x2="258" y2="95" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="193" y1="69" x2="202" y2="69" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="193" y1="95" x2="193" y2="69" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="168" y1="126" x2="176" y2="126" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="168" y1="82" x2="193" y2="82" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="168" y1="126" x2="168" y2="82" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="164" y1="149" x2="190" y2="149" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="164" y1="104" x2="168" y2="104" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="164" y1="149" x2="164" y2="104" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="156" y1="921" x2="178" y2="921" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="156" y1="127" x2="164" y2="127" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="156" y1="921" x2="156" y2="127" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="144" y1="1068" x2="179" y2="1068" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="144" y1="524" x2="156" y2="524" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="144" y1="1068" x2="144" y2="524" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="119" y1="1178" x2="123" y2="1178" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="119" y1="796" x2="144" y2="796" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="119" y1="1178" x2="119" y2="796" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="91" y1="1226" x2="226" y2="1226" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="91" y1="987" x2="119" y2="987" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="91" y1="1226" x2="91" y2="987" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="86" y1="1564" x2="103" y2="1564" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="86" y1="1107" x2="91" y2="1107" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="86" y1="1564" x2="86" y2="1107" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="70" y1="1670" x2="86" y2="1670" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="70" y1="1335" x2="86" y2="1335" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="70" y1="1670" x2="70" y2="1335" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="58" y1="1861" x2="68" y2="1861" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="58" y1="1503" x2="70" y2="1503" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="58" y1="1861" x2="58" y2="1503" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="50" y1="2121" x2="54" y2="2121" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="50" y1="1682" x2="58" y2="1682" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="50" y1="2121" x2="50" y2="1682" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="44" y1="2209" x2="54" y2="2209" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="44" y1="1902" x2="50" y2="1902" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="44" y1="2209" x2="44" y2="1902" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="37" y1="2273" x2="41" y2="2273" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="37" y1="2055" x2="44" y2="2055" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="37" y1="2273" x2="37" y2="2055" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="37" y1="2317" x2="37" y2="2317" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="37" y1="2164" x2="37" y2="2164" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="37" y1="2317" x2="37" y2="2164" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="37" y1="2399" x2="47" y2="2399" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="37" y1="2240" x2="37" y2="2240" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="37" y1="2399" x2="37" y2="2240" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="28" y1="2451" x2="28" y2="2451" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="28" y1="2320" x2="37" y2="2320" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="28" y1="2451" x2="28" y2="2320" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="23" y1="2465" x2="39" y2="2465" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="23" y1="2385" x2="28" y2="2385" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="23" y1="2465" x2="23" y2="2385" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="19" y1="2478" x2="27" y2="2478" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="19" y1="2425" x2="23" y2="2425" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="19" y1="2478" x2="19" y2="2425" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="19" y1="2492" x2="19" y2="2492" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="19" y1="2452" x2="19" y2="2452" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="19" y1="2492" x2="19" y2="2452" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="19" y1="2505" x2="23" y2="2505" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="19" y1="2472" x2="19" y2="2472" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="19" y1="2505" x2="19" y2="2472" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="10" y1="2519" x2="174" y2="2519" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="10" y1="2488" x2="19" y2="2488" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="10" y1="2519" x2="10" y2="2488" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<text x="6" y="15" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="258">PhyML ln(L)=-19115.2 2404 sites GTR 4 rate classes</text>
+<line x1="480" y1="13" x2="533" y2="13" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="480" y1="17" x2="480" y2="9" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<line x1="533" y1="17" x2="533" y2="9" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:butt" />
+<text x="499" y="11" font-family="Times" font-size="12" xml:space="preserve"  fill="rgb(0,0,0)" textLength="15">0.1</text>
+</svg>
